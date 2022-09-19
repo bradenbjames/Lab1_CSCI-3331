@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// MISSING MAIN CLASS
 
 public class DivSales
 {
